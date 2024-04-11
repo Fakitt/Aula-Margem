@@ -1,0 +1,15 @@
+body
+{
+  background-color: rgb(183, 220, 250);
+}
+img
+{
+    width: 250px
+}
+section
+{
+    border: 1px groove black;
+    margin: auto;
+    width: 250px;
+    background-color: white;
+}

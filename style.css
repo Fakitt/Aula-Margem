@@ -1,0 +1,20 @@
+section
+{
+    border: 1px solid black;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    background-color: aquamarine;
+}
+article
+{
+    border: 2px groove black;
+    margin: 100px 20px 60px 30px;
+}
+aside
+{
+    margin: auto;
+    border: 30px groove gold;
+    width: 350px;
+}
